@@ -98,6 +98,3 @@ This is a personal learning project, but suggestions and feedback are welcome! F
 
 This project is open source and available for educational purposes.
 
-## Acknowledgments
-
-Built with guidance from Claude AI as part of a structured learning approach to bot development.
